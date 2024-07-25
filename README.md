@@ -1,3 +1,4 @@
 # 42-ft_irc
 
-XXX
+
+https://mac.filehorse.com/download-hexchat/
